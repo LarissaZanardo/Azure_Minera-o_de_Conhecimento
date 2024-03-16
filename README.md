@@ -18,7 +18,7 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 ## Busca e minreração de Dados
 1- Criar uma conta no Microsoft Azure
 
-2- Após criado, acesse o portal: [Studio Speech](https://speech.microsoft.com/portal) e faça login.
+2- Após criado, acesse o portal Azure: [Azure](https://azure.microsoft.com) e faça login.
 
 3- Funcionalidade: Trabalha dados e informações de maneira ágil.
 
