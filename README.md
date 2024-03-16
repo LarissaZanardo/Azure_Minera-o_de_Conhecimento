@@ -15,7 +15,7 @@ Repositorio criado para análisar e minerar dados com IA do Azure..
 ## 📝 Curso
 Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
-## Busca e minreração de Dados
+## Busca e Mineração de Dados
 1- Criar uma conta no Microsoft Azure
 
 2- Após criado, acesse o portal Azure: [Azure](https://azure.microsoft.com) e faça login.
@@ -101,6 +101,8 @@ Pesquise por "search=*&count=true" para verificar o account
 Podera fazer suas buscas para testar como por exemplo searche=locations:'Chicago'
 ![image](https://github.com/LarissaZanardo/Azure_Minera-o_de_Conhecimento/assets/161094150/bba3acd4-4847-4360-a4e3-238ca50497d6)
 Já é possivel verificar onde estão as revisões e opiniões dessa região
+
+24- Podemos testar varias opções de buscas com essas informações e se atualizarmos os dados do Storage Account ele atualiza sua busca em tempo real.
 
 
 
